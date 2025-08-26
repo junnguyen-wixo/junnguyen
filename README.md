@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Truong
+## 👋 &nbsp;Hey there! I'm Jun Nguyen
 
 ### 👨🏻‍💻 &nbsp;About Me
 

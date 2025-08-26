@@ -13,9 +13,9 @@ I'm a Front End Developer at Wixo. Now I'm focusing to React and React Native an
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=delta94&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=delta94&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=junnguyen-wixo&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnguyen-wixo&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/delta94) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=delta94.visitor-badge)](https://github.com/delta94) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/delta94)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/junnguyen-wixo) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=junnguyen-wixo.visitor-badge)](https://github.com/junnguyen-wixo) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/junnguyen-wixo)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Front-end Developer in Ho Chi Minh City, Viet Nam
